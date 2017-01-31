@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Tour Morelia App</string>
+
+    <!-- List´s names  -->
+    <string name="overview">overview</string>
+    <string name="sightseeing">sightseeing</string>
+    <string name="eat">eat</string>
+    <string name="travel">travel</string>
+    <string name="shop">shop</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Places´s names  -->
+
+    <!--  oldTown names   -->
+    <string name="morelos_name">Morelos´s House</string>
+    <string name="clavijero_name">Clavijero Palace</string>
+    <string name="tarascas_name">Las Tarascas</string>
+    <string name="cathedral_name">The Cathedral</string>
+    <string name="romance_name">Romance Alley</string>
+
+    <!-- Restaurants names  -->
+    <string name="localito_name">Localito Healthy Food</string>
+    <string name="mago_name">Tortas El Mago </string>
+    <string name="infierno_name">Taquería El Infierno</string>
+    <string name="carnitas_name">Carnitas Carmelo</string>
+
+    <!-- Markets names  -->
+    <string name="candy_name">Candy and Handcrafts Market</string>
+    <string name="passion_name">Passion for Michoacán</string>
+    <string name="juan_name">San Juan Market</string>
+
+    <!-- Magic Towns names -->
+    <string name="tacambaro_name"> Tacámbaro</string>
+    <string name="patzcuaro_name"> Pátzcuaro</string>
+    <string name="clara_name"> Santa Clara del Cobre</string>
+    <string name="tzin_name"> Tzintzuntzan</string>
+
+    <!-- Addresses -->
+
+    <!--  oldTown Addresses   -->
+    <string name="morelos_address">La Corregidora #113, Centro Histórico, Morelia.</string>
+    <string name="clavijero_address">Nigromante #79, Centro Histórico, Morelia.</string>
+    <string name="tarascas_address">Villalongin Square, Centro Histórico, Morelia.</string>
+    <string name="cathedral_address">Centro Histórico, Morelia.</string>
+    <string name="romance_address">Btwn. Luis Moya St. and Madero Av, Centro Histórico, Morelia.</string>
+
+    <!-- Restaurants Addresses  -->
+    <string name="localito_address">García de León Blvd #1360, Nva. Chapultepec, Morelia.</string>
+    <string name="mago_address">Paseo de la República #2783, Cinco de Diciembre, Morelia.</string>
+    <string name="infierno_address">Lázaro Cárdenas Av. #2630, Chapultepec Sur, Morelia.</string>
+    <string name="carnitas_address">Paseo De La Republica #4549, Lago Tres , Morelia.</string>
+
+    <!-- Markets Addresses  -->
+    <string name="candy_address">Valentín Gómez Farías w/n, Centro Histórico, Morelia.</string>
+    <string name="passion_address">Garcia de León Blvd. #1694, Cinco de Diciembre, Morelia.</string>
+    <string name="juan_address">Revolución, Centro Histórico, Morelia.</string>
+
+    <!-- Magic Towns Addresses  -->
+    <string name="tacambaro_location"> Morelia/Atlacomulco Highway.</string>
+    <string name="patzcuaro_location"> Morelia/Uruapan Highway.</string>
+    <string name="clara_location"> Morelia/Guadalajara Highway.</string>
+    <string name="tzin_location"> Morelia/Guadalajara Highway.</string>
+
+    <!-- Opening Hours  -->
+
+    <!-- Oldtown Opening Hours  -->
+    <string name="morelos_opening">Mo - Fri, 9:00 - 20:00 </string>
+    <string name="clavijero_opening">Tue - Sun, 10:00 - 18:00 </string>
+    <string name="tarascas_opening">Open air.</string>
+    <string name="cathedral_opening">Mo - Su, 6:00 - 21:00 </string>
+    <string name="romance_opening">Open air.</string>
+
+    <!-- Restaurants Opening Hours  -->
+    <string name="localito_opening">Mo - Su, 9:00 - 15:00 </string>
+    <string name="mago_opening">Mo - Su, 7:15 - 10:45 </string>
+    <string name="infierno_opening">Tue - Su, 9:00 - 1:00</string>
+    <string name="carnitas_opening">Mo - Su, 8:00 - 18:00</string>
+
+    <!-- Markets Opening Hours  -->
+    <string name="candy_opening">Mo - Su , 9:00 - 21:00</string>
+    <string name="passion_opening">Mo - Sat, 10:00 - 17:00</string>
+    <string name="juan_opening">Mo - Su, 7:00 - 17:00</string>
+
+    <!-- Travel Distances -->
+
+    <!-- Magic Towns Distances -->
+    <string name="tacambaro_distance">107 km.</string>
+    <string name="patzcuaro_distance">59 km.</string>
+    <string name="clara_distance">70 km.</string>
+    <string name="tzin_distance">50 km.</string>
+
+    <!-- Overview Information -->
+    <string name="brief_summary">Brief Summary</string>
+    <string name="summary1">The Historic Centre of Morelia is located in central Mexico, at the foot
+        of the Sierra Madre Occidental and near the agricultural valley of Morelia-Querendaro.
+
+        Founded in the 16th century under the name of Valladolid, the city was, at the beginning of
+        the19th century, one of the main centres of the struggle for independence of the country.
+        Two priests received notoriety: Miguel Hidalgo and José María Morelos. It is to the glory of
+        the latter,a native of Valladolid, that the city was renamed Morelia in 1828. </string>
+
+    <string name="summary2">Built in the 16th century according to a "checkerboard" layout, Morelia
+        is an outstandingexample of urban development combining town planning theories of Spain and
+        the Mesoamericanexperience.
+        The sobriety of the urban townscape is enhanced by many Baroque facades characteristic of the
+        religious foundations,including the cathedral and the churches of Santa Rosa, de las Monjas
+        and Guadelupe.
+
+    </string>
+</resources>
