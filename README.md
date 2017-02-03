@@ -2,7 +2,7 @@
 Tour App of Morelia, Mexico
 
 This is a tour app about Morelia, Michoacán, Mexico. You will find information about the city, must-see places, typical food, 
-and magic towns no more than 100 km far away from Morelia. This towns are called Magic Towns. It really worths to visit them!
+and magic towns located no more than 100 km far away from Morelia. This towns are called Magic Towns because of the special charm they have. It really worths to visit them!
 
 The app uses elements that are part of a clean and consistent app design. It comprises a View Pager with a Tab Layout
 in order to let the user scroll between categories.
